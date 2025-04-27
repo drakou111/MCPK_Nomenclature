@@ -74,10 +74,10 @@ Notes:
 + X facing -> X
 + Z facing -> Z -> (by default)
 + single / double / ...
-+ sidewall / sidewalled
++ sidewall / sidewalled -> sw?
 + backwall / backwalled
 + frontwall / frontwalled
-+ postwall?
++ postwall? -> pw?
 + pregap / pregapped
 + postgap / postgap
 + gapped
