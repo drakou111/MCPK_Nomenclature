@@ -117,7 +117,7 @@ Notes:
 + 45-facing bwmm? -> 45bwmm
 + 3 block ceiling bwmm? -> 3bc bwmm
 + loop
-... and many more
++ ... and many more
 
 ### MODIFIERS
 + max
