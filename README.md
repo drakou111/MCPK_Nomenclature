@@ -27,7 +27,7 @@ Notes:
 + cobblwall -> cw
 + thin cobblewall -> tcw
 + head -> h
-+ flower pot -> pot -> p?
++ flower pot -> pot -> fp? -> p?
 + fence -> f
 + fence gate -> fg
 + pane -> p
