@@ -5,6 +5,7 @@ Notes:
 + This is for JAVA 1.8.9.
 + [] will refer to any number. For example, "[]t" would be  "1t", "-19t", "4t", etc. 
 + [] can also contain a range, like [1..6] which would mean any number between 1 (inclusive) and 6 (inclusive).
++ {} refers to any block. For example, "{} to {}" could be "slab to fence" or "s to f".
 + Every use of "?" means that this is not commonly used.
 + Every use of "(by default)" means that its assumed that it is like that unless specified differently.
 
@@ -24,7 +25,7 @@ Notes:
 + trapdoor -> td
 + piston base -> pb?
 + piston head -> ph?
-+ cobblwall -> cw
++ cobblewall -> cw
 + thin cobblewall -> tcw
 + head -> h
 + flower pot -> pot -> fp?
@@ -60,7 +61,7 @@ Notes:
 
 + [] block momentum -> []bmm? -> []bm
 + [] by [] -> []x[]
-+ [] to [] -> []2[]
++  {} to {} -> {}2{}
 + up [] -> +[]
 + down [] -> -[]
 + tier +[]
