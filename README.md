@@ -71,7 +71,7 @@ Notes:
 + [] block ceiling -> []bc
 + 2 block ceiling -> hh
 + trapdoor ceiling -> tdhh
-+ infinit
++ infinit -> inf
 + X facing -> X
 + Z facing -> Z -> (by default)
 + single / double / ...
